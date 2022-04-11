@@ -1,0 +1,38 @@
+.categories-container {
+  width: 92%;
+  margin-top: 25px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px #9e0f0f77;
+  background-color: rgba(39, 39, 39, 0.685);
+  padding: 40px;
+}
+
+.categoriesTable {
+  display: block;
+  border-radius: 10px;
+  place-self: center;
+  width: 100%;  
+  display: table;
+  
+}
+
+.categoriesTable th {
+  font-weight: normal;
+  border: none;
+  text-align: center;
+  font-size: 16px;
+  background-color: #50020cb9;
+  color: #ffff;
+  border-radius: 10px;
+  height: 60px;
+}
+
+.categoriesTable td {
+    border: 1px solid #ddd;
+    text-align: center;
+    font-size: 20px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    height: 60px;
+  }
